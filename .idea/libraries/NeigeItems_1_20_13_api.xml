@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NeigeItems-1.20.13-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Lib/NeigeItems-1.20.13-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

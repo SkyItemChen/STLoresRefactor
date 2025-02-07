@@ -1,0 +1,9 @@
+main: silentdream.stlores.Main
+name: STLores
+version: 1.0.0
+author: silentdream
+softdepend:
+  - NBTAPI
+commands:
+  lore:
+    description: Lore管理

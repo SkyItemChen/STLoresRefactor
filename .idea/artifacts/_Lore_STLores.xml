@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[Lore管理]STLores">
+    <output-path>$PROJECT_DIR$/../../../../../Games/我的世界/仙界领域服务端/plugins</output-path>
+    <root id="archive" name="[Lore管理]STLores.jar">
+      <element id="module-output" name="STLoresRefactor" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
